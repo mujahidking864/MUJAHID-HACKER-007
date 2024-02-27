@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923030823055', 'WHITE', true], 
-  ['923030823055', 'MUJAHUD', true],
+  ['923030823055', '𝗠𝗨𝗝𝗔𝗛𝗜𝗗', true], 
+  ['923030823055', '𝗛𝗔𝗖𝗞𝗘𝗥', true],
   
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923030823055'] 
-global.prems = ['923030823055']
-global.allowed = ['923030823055']
+global.mods = ['923405597632'] 
+global.prems = ['923405597632']
+global.allowed = ['923405597632']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,21 +51,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'MUJAHID-BOT'
+global.botname = '𝗠𝗨𝗝𝗔𝗛𝗜𝗗 𝗛𝗔𝗖𝗞𝗘𝗥'
 global.premium = 'true'
-global.packname = 'MUJAHID TEAM' 
+global.packname = '𝗠𝗨𝗝𝗔𝗛𝗜𝗗 𝗛𝗔𝗖𝗞𝗘𝗥' 
 global.author = '@MUJAHID-007' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My group\nhttps://whatsapp.com/LGlYiwGu1o711xO2tiPZrd' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
+global.dygp = 'https://wa.me/923030823055'
 global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
+global.fgyt = 'https://www.youtube.com/@AI_World75'
+global.fgpyp = 'https://www.youtube.com/@AI_World75'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _Mujahid bot IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
